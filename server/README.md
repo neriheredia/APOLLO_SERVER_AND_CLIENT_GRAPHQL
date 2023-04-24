@@ -355,7 +355,7 @@ import { gql } from "graphql-tag";
 
 ## Has logrado crear un servidor con Apollo Server v4 y GraphQL. Has aprendido a crear tu esquema de GraphQL, definiste tus TypeDefs y creaste un resolvedor para mostrar los usuarios que simulaste en el Playground de GraphQL. Además, ejecutaste con éxito tu primera consulta.
 
-## ¡Te felicito por este logro! Ahora, para continuar mejorando, te sugiero que sigas las instrucciones del archivo README.md que se encuentra en la carpeta de client. ¡Sigue adelante y sigue mejorando tus habilidades en GraphQL y Apollo Server!
+## ¡Te felicito por este logro! Ahora, para continuar mejorando, te sugiero que sigas las instrucciones del archivo [README.md](https://github.com/neriheredia/APOLLO_SERVER_AND_CLIENT_GRAPHQL/tree/master/client) que se encuentra en la carpeta de client. ¡Sigue adelante y sigue mejorando tus habilidades en GraphQL y Apollo Server!
 
 <br>
 <br>
