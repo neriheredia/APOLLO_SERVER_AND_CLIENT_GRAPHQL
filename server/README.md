@@ -5,7 +5,9 @@
 ### Ingresamos dentro de la carpte `server`, una vez dentro de la misma. Comprobaremos que tengamos instalado **_`'Node.js y npm'`_**, con los siguientes comandos.
 
 `node --version`
+
 <br>
+
 `npm --version`
 
 ### Si en nuestra terminal no nos devuelve una version de los paquetes. Procederemos a hacer la instalación de **_`Node.js`_**, siguiendo la documentación oficial de la pagina de **_Node.js_**.
